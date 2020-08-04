@@ -5,4 +5,5 @@ A smart fire detection alarm that is capable of detecting home fires early on an
 
 ## System
 Overall Blcok Diagram show below :
+
 <img width=500 src=https://github.com/rifkirdhani11/Smart-Fire-Alarm-System/blob/master/peringatan.jpg>
